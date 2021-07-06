@@ -12,7 +12,7 @@
  * Author:            dcavins
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * GitHub Plugin URI: https://github.com/careshub/hide-admin-bar-from-non-admins
+ * GitHub Plugin URI: https://github.com/careshub/hide-admin-toolbar-from-non-admins
  */
 /**
  * On new user creation, set the `show_admin_bar_front` user meta to false for all 
